@@ -1,4 +1,4 @@
-H1.README
+#README
 
-This readme need some attention!
+This readme needs some attention!
 Please update it for our lovely users to understand what we are doing
